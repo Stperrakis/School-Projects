@@ -1,0 +1,2 @@
+# QuashiNewton
+BFGS method
